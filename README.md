@@ -6,6 +6,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shobhit_Kesarwani?theme=dark&borderRadius=10&font=Roboto)
 
+## 📝 My LeetCode Solutions
+
+Check out all my LeetCode problem solutions and submissions in my dedicated repository:
+👉 [LeetCode Solutions Repository](https://github.com/Shobhitglitch/Shobhit_Kesarwani-Shobhit_Kesarwani)
+
 ## About Me
 
 - 🔭 I'm passionate about solving coding challenges and improving my problem-solving skills
