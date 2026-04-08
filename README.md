@@ -6,6 +6,12 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shobhit_Kesarwani?theme=dark&borderRadius=10&font=Roboto)
 
+## 🎯 Today's Submission
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| 151. Reverse Words in a String | Medium | [View Submission](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1972216283) |
+
 ## 📝 My LeetCode Solutions
 
 Check out all my LeetCode problem solutions and submissions in my dedicated repository:
